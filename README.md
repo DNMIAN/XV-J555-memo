@@ -13,8 +13,8 @@ XV-J555をMSXにしたいメモ
   
 ![02](/jpg/02.jpg)  
   
-・黒の基板 https://github.com/DNMIAN/XV-x550-Slot-extension/XVx550Slot.zip  
-・赤の基板 MSX2expV1.1.zip  
+・黒の基板 https://github.com/DNMIAN/XV-x550-Slot-extension/blob/main/XVx550Slot.zip  
+・赤の基板 https://github.com/DNMIAN/XV-J555-memo/blob/main/MSX2expV1.1.zip  
 ・パスコン 0.1uF  
 ・ピンヘッダー 2.54mm 20ピンx2, 25ピンx2  
 ・カードエッジコネクタ 2.54mm 50(25x2)ピン  
@@ -73,22 +73,9 @@ XV-J555をMSXにしたいメモ
 上蓋をつける場合、CPU基板に当たるようなら上蓋の大きな基板は捨てましょう（音が出なくなります)  
 とりあえず1スロットMSX2の出来上がりですね  
 オレンジボタンを押しながら起動するとトラックボールがジョイスティックになります  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-  
-  
-  
-  
-  
+　  
+　  
+その他の改造について  
   
 ○スロット2増設  
 　赤基板SLTSL2にS1985のSLT2を接続、黒基板のSLOT2にカードエッジコネクタ実装  
